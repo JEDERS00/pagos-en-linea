@@ -16,7 +16,7 @@ import java.util.logging.Logger;
  * and open the template in the editor.
  */
 /**
- *
+ *Miriam Gomez
  * @author JEDERS
  */
 public class Test {
